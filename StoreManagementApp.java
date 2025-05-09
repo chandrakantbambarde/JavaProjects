@@ -295,6 +295,6 @@ public class StoreManagementApp {
                     System.out.println("Invalid option. Please try again.");
             }
         }
-        scanner.close();
+        
     }
 }
